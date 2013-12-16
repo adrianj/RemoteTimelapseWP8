@@ -1,4 +1,4 @@
-Remote Timelapse for Windows Phone 8.
+Remote Timelapse Applications for Windows Phone 8.
 
 Aim is to create two applications: one for Windows Phone 8 (Eg, on my Lumia 1020) another for Windows Desktop.
 
