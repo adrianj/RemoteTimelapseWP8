@@ -9,3 +9,5 @@ photos and timed intervals and transfers images back to Desktop which then displ
 Key limitation is obviously shot-to-shot time as entire image will need to be transferred via wifi, and some
 phones (eg, Lumia 1020) are pretty slow anyway. But then, that's what timelapse is all about!  So long as the
 timing is consistent.
+
+(NB: Development for me has stalled. I can't install the Windows Phone 8 SDK on my Windows 7 development PC)
