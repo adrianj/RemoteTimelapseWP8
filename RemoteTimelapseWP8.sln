@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteTimelapseWP8", "RemoteTimelapseWP8\RemoteTimelapseWP8.csproj", "{8A5F3F4F-EEB6-4E47-A6A1-E3EB9F51F852}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyPhoneApp", "DummyPhoneApp\DummyPhoneApp.csproj", "{23D6D8FC-4123-4419-A408-85BED88688D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8A5F3F4F-EEB6-4E47-A6A1-E3EB9F51F852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A5F3F4F-EEB6-4E47-A6A1-E3EB9F51F852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A5F3F4F-EEB6-4E47-A6A1-E3EB9F51F852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D6D8FC-4123-4419-A408-85BED88688D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D6D8FC-4123-4419-A408-85BED88688D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D6D8FC-4123-4419-A408-85BED88688D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D6D8FC-4123-4419-A408-85BED88688D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
